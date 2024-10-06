@@ -17,4 +17,5 @@ _____________________
 - ...
 
 ## Frontend
-- mdb5-free-standard: www.mdbootstrap.com/
+- mdb5-free-standard: https://mdbootstrap.com/
+- codeBeautify: https://codebeautify.org/
