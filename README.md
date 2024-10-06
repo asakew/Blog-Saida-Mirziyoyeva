@@ -14,7 +14,7 @@ _____________________
 - shuning uchun Blog sayt yaratmoqchiman va bu proektim Open Source bo'ladi)
 
 ## Backend
-- goLand + goFiber
+- ...
 
 ## Frontend
 - mdb5-free-standard: www.mdbootstrap.com/
