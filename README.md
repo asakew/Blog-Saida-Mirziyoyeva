@@ -17,4 +17,4 @@ _____________________
 - goLand + goFiber
 
 ## Frontend
-- Bootstrap v5.3.3
+- mdb5-free-standard: www.mdbootstrap.com/
