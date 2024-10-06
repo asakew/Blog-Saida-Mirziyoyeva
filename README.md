@@ -19,3 +19,4 @@ _____________________
 ## Frontend
 - mdb5-free-standard: https://mdbootstrap.com/
 - codeBeautify: https://codebeautify.org/
+- fontawesome: https://fontawesome.com/v6/search?o=r&m=free
