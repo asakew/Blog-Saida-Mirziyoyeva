@@ -17,17 +17,40 @@
 <body>
 
 
-<section>
-  <li class="nav-item align-items-center d-flex" >
-    <i class="fas fa-sun"></i>
-    <!-- Default switch -->
-    <div class="ms-2 form-check form-switch">
-      <input class="form-check-input" type="checkbox" role="switch" id="themingSwitcher" />
-    </div>
-    <i class="fas fa-moon"></i>
-  </li>
-</section>
 
+
+
+<header>
+  <nav class="navbar navbar-light bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand">Navbar</a>
+      <form class="d-flex input-group w-auto">
+        <input
+                type="search"
+                class="form-control rounded"
+                placeholder="Search"
+                aria-label="Search"
+                aria-describedby="search-addon"
+        />
+        <span class="input-group-text border-0" id="search-addon">
+        <i class="fas fa-search"></i>
+      </span>
+      </form>
+      
+      <themingSwitcher>
+        <li class="nav-item align-items-center d-flex" >
+          <i class="fas fa-sun"></i>
+          <!-- Default switch -->
+          <div class="ms-2 form-check form-switch">
+            <input class="form-check-input" type="checkbox" role="switch" id="themingSwitcher" />
+          </div>
+          <i class="fas fa-moon"></i>
+        </li>
+      </themingSwitcher>
+
+    </div>
+  </nav>
+</header>
 
 <!-- MDB -->
 <script src="assets/src/js/mdb.free.es.js"></script>
