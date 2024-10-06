@@ -14,7 +14,11 @@ _____________________
 - shuning uchun Blog sayt yaratmoqchiman va bu proektim Open Source bo'ladi)
 
 ## Backend
-- ...
+- goHugo: https://gohugo.io/
+```bash
+cd backend/gohugo/ && hugo server 
+```
 
 ## Frontend
-- Bootstrap v5.3.3
+- ...
+[//]: # (- Bootstrap v5.3.3)
