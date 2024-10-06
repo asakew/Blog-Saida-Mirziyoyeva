@@ -12,9 +12,7 @@ themeStitcher.addEventListener("change", (e) => {
 });
 
 const toggleTheme = (isChecked) => {
-    const theme = isChecked ? "dark" : "light";
-
-    document.documentElement.dataset.mdbTheme = theme;
+    document.documentElement.dataset.mdbTheme = isChecked ? "dark" : "light";
 }
 
 // add listener to toggle theme with Shift + D
