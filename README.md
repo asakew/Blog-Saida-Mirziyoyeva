@@ -18,6 +18,12 @@ _____________________
 ```bash
 cd backend/gohugo/ && hugo server 
 ```
+### Post yaratish
+
+```bash
+cd backend/gohugo/ && hugo new posts/my-first-post.md
+```
+_____________________
 
 ## Frontend
 - ...
