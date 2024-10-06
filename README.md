@@ -14,17 +14,7 @@ _____________________
 - shuning uchun Blog sayt yaratmoqchiman va bu proektim Open Source bo'ladi)
 
 ## Backend
-- goHugo: https://gohugo.io/
-```bash
-cd backend/gohugo/ && hugo server 
-```
-### Post yaratish
-
-```bash
-cd backend/gohugo/ && hugo new posts/my-first-post.md
-```
-_____________________
+- 
 
 ## Frontend
-- ...
-[//]: # (- Bootstrap v5.3.3)
+- Bootstrap v5.3.3
