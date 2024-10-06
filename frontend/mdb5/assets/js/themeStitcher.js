@@ -1,5 +1,5 @@
 const themeStitcher = document.getElementById("themingSwitcher");
-const isSystemThemeSetToDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const isSystemThemeSetToDark = window.matchMedia("(prefers-color-scheme: light)").matches;
 
 // set toggler position based on system theme
 if (isSystemThemeSetToDark) {
